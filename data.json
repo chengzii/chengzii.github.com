@@ -2,50 +2,50 @@
 {
     "timeline":  
    {
-        "headline":"分享、体验、探索这美丽的星球",
+        "headline":"身后、足迹   眼前、回忆",
         "type":"default",
-        "startDate":"August 10, 2005",
-        "text":"I know that God has a pefect plan for me. But his plan will take me through lots of ups and downs. But if I stay faithful to him, I know that in the end, he will do everything to my good",     
+        "startDate":"September 2, 2002",
+        "text":"情欲心弦，雾锁心语无眠！也许，我们永远没有那么一天，成功与灯火辉煌一般。也许，生活给予我的只有风烛的残年。但风不能阻挡我追求的梦想，雨也不能让我永远的惆怅。经历是沉淀后的财富，坎坷是一种风景；苦难已成为纪念！为了梦努力过，为了梦付出过。昨天的经历都已成为今日的回忆。沧桑抹去了青春的容颜，却刻下了永恒的峰山。珍重吧，岁月的流年......",     
         "asset":
         {
-            "media":"http://ww1.sinaimg.cn/mw690/6054e085tw1ecc756lie3j20g109c74w.jpg",
+            "media":"http://img.ph.126.net/sIrjkrpRQ3_db5pWzo_ngA%3D%3D/6598193467539699860.jpg",
             "credit":"",
             "caption":""
         },
         "date": [
             {
-                "startDate":"2005,9,10",
-                "headline":"乡下人来到大学",
-                "text":"头一回离开河南，离开从小生长18年的济源，来到1000公里外的长沙，大学的一切都是那么陌生而新奇",
+                "startDate":"2002,9,2",
+                "headline":"初到重庆",
+                "text":"第一次来到离家这么远的地方，不同的方言、饮食、生活作息，初入大学里的一切都是那么陌生而新奇",
                 "asset":
                 {
-                    "media":"http://ww4.sinaimg.cn/mw690/6054e085tw1ecc7b0rl74j20b408ct97.jpg",
+                    "media":"http://a2.att.hudong.com/62/05/16200000032402131597050379615.jpg",
                     "credit":"",
-                    "caption":"湖南大学岳麓书院"
+                    "caption":"重庆大学"
                 }
             },
 
             {
-                "startDate":"2007,5,13",
-                "headline":"小伙伴们",
-                "text":"青涩的小伙伴们，散伙饭吃完后，再没有这样整齐的场面，一起生活四年的兄弟们啊，你们过得都还好吧",
+                "startDate":"2003,3,25",
+                "headline":"非典来袭",
+                "text":"在举国上下因为非典事件而震动的时候，我们也经历了停课、封锁校园，超市中方便面、自来水也被哄抢一空",
                 "asset":
                 {
-                    "media":"http://ww1.sinaimg.cn/mw690/6054e085tw1ecdfjg5dufj20ms0g2tb1.jpg",
+                    "media":"http://www.cqjj.net/upload/news/upload/836a28f5567fca721c89bf1ff37bb17b.jpg",
                     "credit":"",
-                    "caption":"我没去"
+                    "caption":"2013非典"
                 }
             },
 
             {
-                "startDate":"2009,9,10",
-                "headline":"开始研究生生活",
-                "text":"从此say goodbye to 2154次列车，坐上开往北京的列车，新的朋友，新的城市，新的生活，如今离开你们，何时能再见一面。田杨，上次和你切磋拳皇实力大涨啊",
+                "startDate":"2004,12,31",
+                "headline":"一段黑色的记忆",
+                "text":"我没想到我会提前离开，以一种无法接受的方式。那是一段黑色的记忆，无论是对我还是对于家庭。",
                 "asset":
                 {
-                    "media":"http://ww2.sinaimg.cn/mw690/6054e085tw1ecc757c55ej20im0dy40s.jpg",
+                    "media":"http://a4.att.hudong.com/33/39/01300000019916120597390955165.jpg",
                     "credit":"",
-                    "caption":"北航校友一起爬香山"
+                    "caption":"迷茫、彷徨、自卑的迷雾笼罩了内心"
                 }
             },
 
